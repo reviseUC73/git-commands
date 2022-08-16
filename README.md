@@ -131,15 +131,14 @@ test/
    ```
    git add -u
    ```
-10. **Delete** the file `c.py` from your working copy **and** the repository:
-   ```
-   git rm src/c.py
-   ```
-
+10.   **Delete** the file `c.py` from your working copy **and** the repository:
+      ```
+      git rm src/c.py
+      ```
 ## Undo Changes and Recover Files
 
 
-1.  Display the differences between your *working copy* of `a.py` and the `a.py` in the *local repository* (HEAD revision):
+1. Display the differences between your *working copy* of `a.py` and the `a.py` in the *local repository* (HEAD revision):
    ```
    git diff a.py
    ```
@@ -233,7 +232,7 @@ test/
    ```
 
 5. **Merge:** To merge the work from `dev-foo` into the master branch, perform these steps:
-   > TODO: write a description of the steps and the git command(s) for each step
+   
    1. step one
       
    - Go to branch name 'dev-foo' by use git command : ```git checkout dev-foo```, for move HEAD
@@ -242,8 +241,6 @@ test/
       
    - Merge branch name 'dev-foo' to master by use git command : ```git merge master```
       
-
-
 6. Describe under what conditions a merge may fail.
 - Modifications you've committed clash with other changes you've already made.
 
