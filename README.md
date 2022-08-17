@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Quick Guide to Git
 By setthanan thongpanchang
+=======
+<!-- # The Ultimate Guide to Using Git
+***For The Impatient.***
+>>>>>>> refs/remotes/origin/master -->
 > **Instructions**
 > 
 > 1. Read Chapters 2 & 3 of [Pro Git][ProGit]. The chapters are short.
