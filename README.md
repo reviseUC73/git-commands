@@ -1,3 +1,5 @@
+# Quick Guide to Git
+By setthanan thongpanchang
 > **Instructions**
 > 
 > 1. Read Chapters 2 & 3 of [Pro Git][ProGit]. The chapters are short.
