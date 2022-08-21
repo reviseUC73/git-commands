@@ -107,7 +107,7 @@ test/
    ```
 
 3. List the files in the staging area.
-   ````
+   ```
    git status
    ```
 
